@@ -2,8 +2,6 @@
 # пароль и логин должны быть не менее 8 символов
 # если они совпадают вывести ошибку
 
-# openWeather: 71ced5e7a500140d18fd3d979de5c7f7
-# api.openweathermap.org/data/2.5/weather?id=524901&appid=YOUR_API_KEY
 
 from tkinter import *
 from tkinter import messagebox
